@@ -1,0 +1,31 @@
+.header {
+    padding-top: 1em;
+}
+
+.bg {
+    height: 100%;
+    background-color: red;
+    background-image: url(./images/star-wars-logo-3654.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header-white {
+    text-align: center;
+    padding-top: 2em;
+    text-transform: uppercase;
+    color: white;
+}
+
+.footer {
+    color: white;
+    height: 50px;
+}
+
+.github {
+    font-size: 1em;
+}
+
+.home, .people, .planets {
+    height: 100vh;
+}
